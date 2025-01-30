@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    font-style: italic;
+}
+h1{
+
+font-size: 60px;
+border-radius: 0%;
+}
+button{
+    background-color: rgb(204, 59, 54);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 7px;
+    width:170px;
+    font-size: medium;
+    font-weight: bold;
+}
+p{
+    font-size: larger;
+
+}
+
